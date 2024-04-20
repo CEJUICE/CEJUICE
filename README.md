@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @CEJUICE
-- 👀 I’m interested in Minecraft, Hockey, and Coding!
+
